@@ -10,7 +10,7 @@ import About1 from './temp1_comp/About1';
 import Contact1 from './temp1_comp/Contact1';
 import Skills1 from './temp1_comp/Skills1';
 import Projects1 from './temp1_comp/Projects1';
-import Template2 from './template2';
+import Template2 from './Template2';
 import { UserDataProvider } from './UserDataContext';
 
 function App() {
